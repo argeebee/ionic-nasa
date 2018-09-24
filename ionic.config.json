@@ -1,0 +1,8 @@
+{
+  "name": "ionic-nasa",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "12f66445"
+}
